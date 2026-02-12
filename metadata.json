@@ -1,0 +1,5 @@
+{
+  "name": "Remotion VFX Studio",
+  "description": "A frame-accurate Remotion animation engine for cinematic caption overlays, featuring word-progressive builds and GPU-friendly transitions.",
+  "requestFramePermissions": []
+}
